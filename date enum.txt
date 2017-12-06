@@ -1,0 +1,2 @@
+StringBilder и StringBuffer
+StringBuffer -надежнее, а StringBilder опасен для много поточности 
