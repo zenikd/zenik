@@ -17,7 +17,7 @@ public class Task30{
              System.out.println(line);
              
              String[]  split = line.split(" ");
-             wordsCount += split.length;
+             wordasCount += split.length;
          }
          
          System.out.println("Words count:" + wordsCount);
